@@ -11,3 +11,5 @@ The player is controled by clicking where you want to move.
 you can unzip [VideoSubmittion.zip](./VideoSubmittion.zip) to watch a demonstration of the program.
 
 Was created as part of an Assignment for Unity Game Devlopment course while in collage.
+
+Origionally submitted on (Mar 16, 2019)
